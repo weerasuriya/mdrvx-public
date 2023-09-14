@@ -1,0 +1,8 @@
+{
+  "raw_file": ["data/fitted_parameters/april_2020_cals/2020-04-17-1840-results.csv"],
+  "seed": [123],
+  "outfile": ["data/fitted_parameters/april_2020_cals/april_2020_1K_china.csv"],
+  "md5_raw_file": ["1ea7c7d297292771d02940edbc950993"],
+  "run_time": ["2020-04-23-1317"],
+  "md5_outfile": ["f26dd0ef516e1454a33ac4f6a99c481c"]
+}

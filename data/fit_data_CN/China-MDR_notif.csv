@@ -1,0 +1,8 @@
+Year,agg_lab_conf_MDR,lab_conf MDR (all TB),rdt_dx RR-TB,lab_conf MDR init_rx,unconf MDR init_rx,lab_conf MDR/RR,lab_conf MDR,lab_conf MDR/RR init_rx,unconf MDR init_rx,lab_conf XDR,lab_conf XDR init_rx
+2010,2792,2792,,1222,,,,,,,
+2011,1601,1601,85,1155,0,,,,,,27
+2012,3007,3007,306,1795,111,,,,,,115
+2013,2966,2966,490,2184,0,,,,,,159
+2014,4630,,,,,5807,4630,2846,0,,135
+2015,8072,,,,,9662,8072,5691,0,357,122
+2016,8619,,,,,10898,8619,5405,,525,265

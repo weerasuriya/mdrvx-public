@@ -1,0 +1,8 @@
+{
+  "raw_master": ["data/fitted_parameters/april_2020_cals/2020-03-10-2258-results.csv"],
+  "prng_seed": [123],
+  "md5_raw_master": ["3b095639fb7b5989c54ceaabcf83bf05"],
+  "outfile": ["data/fitted_parameters/april_2020_cals/seed_search_26.csv"],
+  "md5_outfile": ["fe318c96e26d31d53073adc285696178"],
+  "note": ["Using output of ascending MCMC, generate 1000 seeds for full parameter exploration in China"]
+}

@@ -1,0 +1,2 @@
+country,iso2,iso3,iso_numeric,year,source_rr_new,source_drs_coverage_new,source_drs_year_new,e_rr_pct_new,e_rr_pct_new_lo,e_rr_pct_new_hi,e_mdr_pct_rr_new,source_rr_ret,source_drs_coverage_ret,source_drs_year_ret,e_rr_pct_ret,e_rr_pct_ret_lo,e_rr_pct_ret_hi,e_mdr_pct_rr_ret,e_inc_rr_num,e_inc_rr_num_lo,e_inc_rr_num_hi,e_rr_in_notified_pulm,e_rr_in_notified_pulm_lo,e_rr_in_notified_pulm_hi
+China,CN,CHN,156,2016,Survey,National,2013,7.1,5.6,8.7,75,Survey,National,2013,24,20,28,73,73000,56000,89000,58000,47000,69000

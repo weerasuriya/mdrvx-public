@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+
+library(compiler)
+library(here)
+
+setwd(here("code"))
+rm(list = ls())
+
+# Import rebuilt file
+source("build/2_main_rebuild.R")
+
+# Byte compile
+cmp_mainloop <- cmpfun(mainloop)
+
+# Write out compiled function
+saveRDS(cmp_mainloop, file = "2.1_main_rebuild.R.cmp")
